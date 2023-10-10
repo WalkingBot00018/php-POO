@@ -1,0 +1,36 @@
+Crear un proyecto llamado relacion_apellidos_nombres, con estas clases:
+
+ 
+
+1. Aprendiz
+Atributos del aprendiz: 
+-string idAprendiz, 
+-string nombres, 
+-string apellidos, 
+-string correo
+
+ 
+
+2. Ficha
+Atributos
+-string codigoFicha, 
+-array aprendices
+
+ 
+
+Ejemplos de código de ficha: ficha 2560664B, 2673630
+
+ 
+
+3. Programa
+Atributos:
+-codigoPrograma,
+-nombrePrograma
+
+ 
+
+Ejemplos de codigoPrograma: 218120, Nombre de programa: ADSO
+
+ 
+
+Crear las relaciones de clases necesarias y agregar 5 fichas con 3 aprendices cada una
